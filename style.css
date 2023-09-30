@@ -1,0 +1,48 @@
+body {
+    background-image: url('https://img.freepik.com/premium-vector/thermometer-with-hot-cold-temperature_349999-600.jpg');
+  }
+  
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    
+}
+.container {
+    position:relative;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    margin: 0 auto;
+}
+h1 {
+    color: #333;
+}
+label {
+    font-weight: bold;
+}
+select, button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+p {
+    font-weight: bold;
+}
+input{
+    width: 92%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
